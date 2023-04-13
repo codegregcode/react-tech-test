@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Trispace:wght@500&display=swap");
+
+p {
+  font-family: "Trispace", sans-serif;
+  font-size: 32px;
+  text-shadow: 2px 2px #ff0000;
+  display: flex;
+  justify-content: center;
+}
+
+.search-results-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  overflow: scroll;
+}
+
+.card-image {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
