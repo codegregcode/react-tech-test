@@ -34,7 +34,7 @@ As well as using the testing lirbaries listed above, I used:
 1. Clone this repo
 
    ```
-   git clone https://github.com/codegregcode/nasa-tech-test
+   git clone https://github.com/codegregcode/react-tech-test
    ```
 
 2. Move into directory
