@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.bg {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA24571.jpg");
+  background-size: contain;
+}
+
+.nasa-logo {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
