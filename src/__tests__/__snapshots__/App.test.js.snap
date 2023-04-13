@@ -13,6 +13,20 @@ exports[`App renders correctly 1`] = `
         class="nasa-logo"
         src="200424060716-nasa-worm-logo-removebg-preview.png"
       />
+      <form
+        class="search-form"
+      >
+        <input
+          class="search-input"
+          type="text"
+        />
+        <button
+          class="search-btn"
+          type="submit"
+        >
+          Go!
+        </button>
+      </form>
     </div>
   </div>
 </DocumentFragment>
