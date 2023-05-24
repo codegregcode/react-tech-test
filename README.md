@@ -1,6 +1,6 @@
 # NASA Image Search - Command Shift Tech Test
 
-This project was created to get a better understanding of a techinical test as part of a tech interview. Click [here](nasa-image-search-cgc23.netlify.app) to use, or see the installation instructions below.
+This project was created to get a better understanding of a techinical test as part of a tech interview. Click [here](https://nasa-image-search-cgc23.netlify.app) to use, or see the installation instructions below.
 
 ## Task
 
